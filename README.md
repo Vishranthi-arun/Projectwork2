@@ -41,7 +41,7 @@ By integrating deep learning, medical imaging, and interactive AI-powered diagno
 #### Output2 - Grad-CAM Visualization
 ![WhatsApp Image 2025-02-21 at 1 43 14 PM (2)](https://github.com/user-attachments/assets/344bb097-4cba-42bc-8b86-e26c2764a455)
 
-### Output 
+### Output - Severity Analysis
 ![image](https://github.com/user-attachments/assets/2b1abae6-8610-4377-af0b-7bee6b6a7d54)
 
 ### ACCURACY
