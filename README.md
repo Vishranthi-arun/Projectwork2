@@ -42,7 +42,7 @@ By integrating deep learning, medical imaging, and interactive AI-powered diagno
 ![WhatsApp Image 2025-02-21 at 1 43 14 PM (2)](https://github.com/user-attachments/assets/344bb097-4cba-42bc-8b86-e26c2764a455)
 
 
-
+### ACCURACY
 Detection Accuracy: 62%
 ![Screenshot 2025-02-22 194543](https://github.com/user-attachments/assets/bf928ebf-f18e-4273-a02e-e78dbfc0c4d1)
 
