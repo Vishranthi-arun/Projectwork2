@@ -44,6 +44,8 @@ By integrating deep learning, medical imaging, and interactive AI-powered diagno
 
 ### ACCURACY
 Detection Accuracy: 62%
+
+
 ![Screenshot 2025-02-22 194543](https://github.com/user-attachments/assets/bf928ebf-f18e-4273-a02e-e78dbfc0c4d1)
 
 
