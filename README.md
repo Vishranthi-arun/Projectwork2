@@ -1,18 +1,21 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Knee Osteoarthritis Detection and Severity Classification using Deep Learning
+The development of a deep learning-based system for Knee Osteoarthritis Detection and Severity Classification, aimed at automating the diagnosis process using X-ray images. This system leverages the Xception CNN model and Grad-CAM visualization to enhance accuracy and interpretability, providing a reliable computer-aided diagnostic (CAD) tool for healthcare professionals.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Knee Osteoarthritis Detection and Severity Classification is a project designed to develop an automated system that utilizes deep learning techniques for accurate and efficient diagnosis of knee osteoarthritis (OA) from X-ray images. Traditional OA diagnosis relies on manual radiographic assessment, which is time-consuming, subjective, and prone to variability among radiologists. This project aims to overcome these challenges by implementing a computer-aided diagnostic (CAD) tool that can classify knee OA into five severity levels: Healthy, Doubtful, Minimal, Moderate, and Severe.
+
+The system leverages the Xception deep learning model with transfer learning to enhance classification accuracy. Additionally, Grad-CAM (Gradient-weighted Class Activation Mapping) is incorporated to provide visual explanations, ensuring interpretability and trustworthiness in medical decision-making. The model is deployed via a Streamlit-based web application, enabling real-time analysis and a user-friendly interface for healthcare professionals.
+
+By integrating deep learning, medical imaging, and interactive AI-powered diagnosis, this project contributes to the advancement of AI-driven healthcare solutions, facilitating faster, more consistent, and objective OA severity assessment.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+* Implements an advanced deep learning model (Xception CNN) for high-accuracy osteoarthritis classification.
+*A framework-based application using Streamlit for easy deployment and accessibility.
+High scalability, allowing integration with hospital databases and medical imaging systems.
+Optimized processing, reducing time complexity for real-time X-ray analysis.
+Grad-CAM visualization for model interpretability, highlighting key areas in X-ray images.
+Transfer learning approach for improved performance even with limited medical datasets.
+User-friendly interface, enabling seamless interaction for healthcare professionals.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
@@ -45,14 +48,26 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The system demonstrates high accuracy in distinguishing knee OA severity levels.
+Interpretability through Grad-CAM allows medical professionals to validate the AI model's decision-making.
+Provides quick and consistent diagnosis, reducing human error and subjectivity in severity classification.
+Serves as a foundation for AI-powered medical imaging advancements and potential real-time hospital integration.
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. J. Abedin, J. Antony, K. McGuinness, K. Moran, N. E. O’Connor, D. Rebholz-Schuhmann, and J. 
+Newell, “Predicting knee osteoarthritis severity: Comparative modeling based on patient’s data and plain 
+X ray images”. Sci. Rep. 9, 57-61, 2019.
+2. D. Hayashi, F. W. Roemer, M. Jarraya, and A. Guermazi, “Imaging in osteoarthritis”, Radiologic 
+Clinics of North America 55 (5), 1085-1102, 2017.
+3. P. Chen, L. Gao, X. Shi, K. Allen, and L. Yang, “Fully automatic knee osteoarthritis severity 
+grading using deep neural networks with a novel ordinal loss”. Computerized Medical Imaging and 
+Graphics, 75, 84 92, 2019.  
+4. A. Tiulpin, J. Thevenot, E. Rahtu, P. and Lehenkari, S. Saarakkala, “Automatic knee osteoarthritis 
+diagnosis from plain radiographs: A deep learning-based approach”. Sci. Rep. 8, 17-27, 2018.  
+5. A. Tiulpin, and S. Saarakkala, “Automatic grading of individual knee osteoarthritis features in plain 
+radiographs using deep convolutional neural networks”. Diagnostics, 10(11), 9-32, 2020.
 
 
 
